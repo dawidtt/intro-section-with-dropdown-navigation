@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [GitHub]()
+- GitHub - [dawitt](https://github.com/dawidtt)
